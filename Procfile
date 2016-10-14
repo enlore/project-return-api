@@ -1,1 +1,1 @@
-web: python jr_services.py
+web: PORT=$PORT python jr_services.py
